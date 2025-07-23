@@ -1,0 +1,11 @@
+[project]
+name = "frupple"
+version = "1.0.0"
+description = "A simple geometric computation library for testing breaking changes"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
